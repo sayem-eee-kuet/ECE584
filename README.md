@@ -1,1 +1,2 @@
-# ECE584
+# ECE 584: Estimation Theory
+Final Prorect
